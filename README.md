@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aztekgold
-- 👀 I’m interested in: Task automation with Javascript and CSS Maagic
+- 👀 I’m interested in: Task automation with Javascript and CSS Wizardry
 - 🌱 I’m currently learning: Python Machine Learning
-- 💞️ I’m looking to collaborate on: anything thrown my way
+- 💞️ I’m looking to collaborate on: Anything thrown my way
 - 📫 How to reach me: Bat Signal
 
 <!---
