@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aztekgold
 - 👀 I’m interested in: Task automation with Javascript and CSS Wizardry
-- 🌱 I’m currently learning: Python Machine Learning
-- 💞️ I’m looking to collaborate on: Anything thrown my way
+- 🌱 I’m currently learning: Agentic Workdlows
 - 📫 How to reach me: Bat Signal
 
 <!---
